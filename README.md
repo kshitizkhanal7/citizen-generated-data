@@ -1,2 +1,2 @@
 # citizen-generated-data
-A place to organize everything related to Citizen-Generated Data
+A place to organize all information and references related to Citizen-Generated Data
